@@ -1,7 +1,9 @@
 # VLSI-DSP-Final-Project
 Implementation if several MIMO detection algorithm via comparison
-## Code structure?
-* Including the main function, ML detector function and the $k$-best detector function (ZF and MMSE is inside the main function)
+## How to use?
+* Compile the mimo_system.m and it will call the corresponding function for simulation
+* Code structure
+ * Including the main function, ML detector function and the $k$-best detector function (ZF and MMSE is inside the main function)
 
 ## System Model
 ![image](https://user-images.githubusercontent.com/114923630/221602194-c23a011b-2a40-4aa9-b2f6-0d81e350914c.png)
